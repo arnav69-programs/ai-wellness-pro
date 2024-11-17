@@ -1,0 +1,11 @@
+streamlit
+firebase-admin
+yagmail
+schedule
+pandas
+plotly
+sqlalchemy
+huggingface-hub
+wordcloud
+matplotlib
+numpy
